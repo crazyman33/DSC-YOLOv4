@@ -7,7 +7,11 @@ The network structure is shown as
 ![image](https://user-images.githubusercontent.com/28681601/127973568-fd33b45f-174c-4a8c-82e1-4a9d6f2cd355.png)
 
 It can be seen that if construction workers cover each other, YOLOv4 appears few people wearing helmet cannot be detected, while DSC-YOLOv4 can still have a better detection performance.
+
+
 ![image](https://user-images.githubusercontent.com/28681601/127973847-80d41e4a-7926-460c-807f-da5682bf3e5e.png)
 
 DSC-YOLOv4 is more adaptable to environment changes.
+
+
 ![image](https://user-images.githubusercontent.com/28681601/127973935-9a1482b6-d4b6-4acd-be92-235204d075bf.png)
