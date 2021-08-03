@@ -4,7 +4,7 @@ Safety helmet wearing detection has practical significance in actual production 
 
 The network structure is shown as
 
-![image](https://user-images.githubusercontent.com/28681601/127973568-fd33b45f-174c-4a8c-82e1-4a9d6f2cd355.png)
+![image](https://user-images.githubusercontent.com/28681601/127974670-68aa6375-1190-47a6-932a-f6937ce31aec.png)
 
 It can be seen that if construction workers cover each other, YOLOv4 appears few people wearing helmet cannot be detected, while DSC-YOLOv4 can still have a better detection performance.
 
