@@ -4,7 +4,14 @@ Safety helmet wearing detection has practical significance in actual production 
 if construction workers cover each other, YOLOv4 appears few people wearing helmet cannot be detected, while DSC-YOLOv4 can still have a better detection performance.DSC-YOLOv4 is more adaptable to environment changes.
 
 voc_annnotation.py is used to get the anchor size
+
 train. py is used to train
+
+
 predict.by is used to predict
+
+
 get_map.py is used to obtain AP and mAP
+
+
 yolo. py is the YOLO prediction network
