@@ -4,6 +4,7 @@ Improved YOLOv4 with depthwise separable convolution
 Safety helmet wearing detection has practical significance in actual production operations. The current target detection method based on YOLOv4 can achieve effective detection of workers wearing helmets. However, it limits the further use in complex scenarios such as dense scenes. To solve this problem, we propose an improved YOLOv4 mode which replaces the CSPdarknet backbone network with a depthwise separable convolutional network that is composed of the depthwise convolution and the pointwise convolution. 
 
 The network structure is shown as
+
 ![image](https://user-images.githubusercontent.com/28681601/127973568-fd33b45f-174c-4a8c-82e1-4a9d6f2cd355.png)
 
 It can be seen that if construction workers cover each other, YOLOv4 appears few people wearing helmet cannot be detected, while DSC-YOLOv4 can still have a better detection performance.
